@@ -1,0 +1,7 @@
+export const MAX_VALUES = {
+  WORK_TIME: 180,
+  BREAK: 60,
+  LONG_BREAK: 120,
+  MAX_ROUNDS: 12,
+  MIN_ROUNDS: 2,
+};
