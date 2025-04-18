@@ -2,7 +2,7 @@ import { useState } from "react";
 import { useTimer } from "../hooks/useTimer";
 import { formatTime } from "../utils/formatTime";
 import { MAX_VALUES } from "../constants/settings";
-import { Setting } from "../interfaces/interfaces";
+import { Setting } from "../definitions/definitions";
 import { FiAlertTriangle } from "react-icons/fi";
 import { useTimeout } from "../hooks/useTimeout";
 import clsx from "clsx";

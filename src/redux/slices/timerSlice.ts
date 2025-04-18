@@ -1,8 +1,8 @@
 import { createSlice, PayloadAction } from '@reduxjs/toolkit';
-import { TimerState } from '../../interfaces/interfaces';
+import { TimerState } from '../../definitions/definitions';
 
 
-const initialState: TimerState = {
+export const initialState: TimerState = {
   mode: 'work',
   time: 25 * 60, // 25min
   isRunning: false,

@@ -1,6 +1,6 @@
 import { useDispatch, useSelector } from "react-redux";
 import { RootState, AppDispatch } from "../redux/store";
-import { Setting } from "../interfaces/interfaces";
+import { Setting } from "../definitions/definitions";
 import {
   setWorkTime,
   setShortBreakTime,
