@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "",
+  "homepage": "https://github.com/xeen96/pomodoro/",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
